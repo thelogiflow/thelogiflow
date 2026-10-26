@@ -60,8 +60,7 @@ flowchart LR
 <p>
   <a href="https://thelogiflow.com"><img src="https://img.shields.io/badge/thelogiflow.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Website"/></a>
   <a href="mailto:hello@thelogiflow.com"><img src="https://img.shields.io/badge/hello@thelogiflow.com-0d1117?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email"/></a>
-  <a href="https://linkedin.com/company/thelogiflow"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn"/></a>
-</p>
+ </p>
 <h3>💙 Views:</h3>
 <img src="https://komarev.com/ghpvc/?username=thelogiflow&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
  
